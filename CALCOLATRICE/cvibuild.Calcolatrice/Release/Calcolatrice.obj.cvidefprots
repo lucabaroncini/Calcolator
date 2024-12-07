@@ -1,0 +1,24 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char **argv);"
+
+[cbNum]
+Class="Function"
+Prototype="int cbNum(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[cbOpe]
+Class="Function"
+Prototype="int cbOpe(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[cbCanc]
+Class="Function"
+Prototype="int cbCanc(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[cbQuit]
+Class="Function"
+Prototype="int cbQuit(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[cbMode]
+Class="Function"
+Prototype="int cbMode(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
